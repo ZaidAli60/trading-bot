@@ -1,0 +1,110 @@
+[
+    {
+        "label": "Admission Fee",
+        "value": "admissionFee"
+    },
+    {
+        "label": "Bus Fee",
+        "value": "busFee"
+    },
+    {
+        "label": "Canteen Fee",
+        "value": "canteenFee"
+    },
+    {
+        "label": "Caution Money",
+        "value": "cautionMoney"
+    },
+    {
+        "label": "Computer Fee",
+        "value": "computerFee"
+    },
+    {
+        "label": "Development Fee",
+        "value": "developmentFee"
+    },
+    {
+        "label": "Drawing Fee",
+        "value": "drawingFee"
+    },
+    {
+        "label": "Electricity Fee",
+        "value": "electricityFee"
+    },
+    {
+        "label": "Enrollment Fee",
+        "value": "enrollmentFee"
+    },
+    {
+        "label": "Examination Fee",
+        "value": "examinationFee"
+    },
+    {
+        "label": "Fine Fee",
+        "value": "fineFee"
+    },
+    {
+        "label": "Generator Fee",
+        "value": "generatorFee"
+    },
+    {
+        "label": "Hostel Fee",
+        "value": "hostelFee"
+    },
+    {
+        "label": "Laboratory Fee",
+        "value": "laboratoryFee"
+    },
+    {
+        "label": "Late Fee",
+        "value": "lateFee"
+    },
+    {
+        "label": "Library Fee",
+        "value": "libraryFee"
+    },
+    {
+        "label": "Mess Fee",
+        "value": "messFee"
+    },
+    {
+        "label": "Monthly Fee",
+        "value": "monthlyFee"
+    },
+    {
+        "label": "Other Fee",
+        "value": "otherFee"
+    },
+    {
+        "label": "Registration Fee",
+        "value": "registrationFee"
+    },
+    {
+        "label": "Scholarship Fee",
+        "value": "scholarshipFee"
+    },
+    {
+        "label": "Sports Fee",
+        "value": "sportsFee"
+    },
+    {
+        "label": "Transport Fee",
+        "value": "transportFee"
+    },
+    {
+        "label": "Training Fee",
+        "value": "trainingFee"
+    },
+    {
+        "label": "Tuition Fee",
+        "value": "tuitionFee"
+    },
+    {
+        "label": "Uniform Fee",
+        "value": "uniformFee"
+    },
+    {
+        "label": "Van Fee",
+        "value": "vanFee"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "label": "Course",
+        "value": "course"
+    },
+    {
+        "label": "Basic Training Program",
+        "value": "basicTrainingProgram"
+    },
+    {
+        "label": "Professional Training Program",
+        "value": "professionalTrainingProgram"
+    },
+    {
+        "label": "Event",
+        "value": "event"
+    },
+    {
+        "label": "Workshop",
+        "value": "workshop"
+    }
+]

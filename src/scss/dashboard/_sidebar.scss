@@ -1,0 +1,56 @@
+.navbar {
+    .navbar-brand {
+        max-height: 40px;
+    }
+
+    .dropdown {
+
+        img,
+        span {
+            max-height: 37px;
+        }
+    }
+
+    .dropdown {
+        .dropdown-menu.show {
+            right: 0 !important;
+            left: auto !important;
+
+            i {
+                width: 32px;
+            }
+        }
+
+        .btn {
+            border-top-left-radius: 0;
+            border-top-right-radius: 0;
+        }
+    }
+
+    .nav-link {
+        i {
+            font-size: 24px;
+            color: white;
+        }
+    }
+}
+
+.custom-sider {
+    /* Allow vertical scrolling */
+    overflow-y: scroll;
+    /* Firefox */
+    scrollbar-width: none;
+
+    .ant-layout-sider-children {
+        .ant-menu {
+            a {
+                text-decoration: none;
+            }
+        }
+    }
+}
+
+.custom-sider::-webkit-scrollbar {
+    /* Safari and Chrome */
+    display: none;
+}

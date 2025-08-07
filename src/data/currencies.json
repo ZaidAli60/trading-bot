@@ -1,0 +1,102 @@
+[
+    {
+        "label": "Pakistani Rupee",
+        "value": "PKR",
+        "symbol": "₨"
+    },
+    {
+        "label": "US Dollar",
+        "value": "USD",
+        "symbol": "$"
+    },
+    {
+        "label": "Euro",
+        "value": "EUR",
+        "symbol": "€"
+    },
+    {
+        "label": "British Pound",
+        "value": "GBP",
+        "symbol": "£"
+    },
+    {
+        "label": "Japanese Yen",
+        "value": "JPY",
+        "symbol": "¥"
+    },
+    {
+        "label": "Canadian Dollar",
+        "value": "CAD",
+        "symbol": "$"
+    },
+    {
+        "label": "Australian Dollar",
+        "value": "AUD",
+        "symbol": "$"
+    },
+    {
+        "label": "Swiss Franc",
+        "value": "CHF",
+        "symbol": "CHF"
+    },
+    {
+        "label": "Chinese Yuan",
+        "value": "CNY",
+        "symbol": "¥"
+    },
+    {
+        "label": "Indian Rupee",
+        "value": "INR",
+        "symbol": "₹"
+    },
+    {
+        "label": "Russian Ruble",
+        "value": "RUB",
+        "symbol": "₽"
+    },
+    {
+        "label": "South Korean Won",
+        "value": "KRW",
+        "symbol": "₩"
+    },
+    {
+        "label": "Singapore Dollar",
+        "value": "SGD",
+        "symbol": "$"
+    },
+    {
+        "label": "New Zealand Dollar",
+        "value": "NZD",
+        "symbol": "$"
+    },
+    {
+        "label": "Brazilian Real",
+        "value": "BRL",
+        "symbol": "R$"
+    },
+    {
+        "label": "South African Rand",
+        "value": "ZAR",
+        "symbol": "R"
+    },
+    {
+        "label": "Mexican Peso",
+        "value": "MXN",
+        "symbol": "$"
+    },
+    {
+        "label": "Turkish Lira",
+        "value": "TRY",
+        "symbol": "₺"
+    },
+    {
+        "label": "United Arab Emirates Dirham",
+        "value": "AED",
+        "symbol": "د.إ"
+    },
+    {
+        "label": "Saudi Riyal",
+        "value": "SAR",
+        "symbol": "﷼"
+    }
+]

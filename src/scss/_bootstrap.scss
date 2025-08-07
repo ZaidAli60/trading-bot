@@ -1,0 +1,32 @@
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+
+$primary: #1F2937;
+$success: #05CD99;
+$danger: #D8463D;
+$info: #02c2d9;
+$blue: #2B3674;
+$btnBoxShadow: #2B367440;
+$purple: #4d238f;
+$pink: #D066CE;
+$gray: #DFE1EA;
+$yellow: #FEF479;
+$body-light: #f5f5f5;
+
+$custom-colors: (
+    "primary": $primary,
+    "success": $success,
+    "danger": $danger,
+    "info": $info,
+    "blue": $blue,
+    "purple": $purple,
+    "pink": $pink,
+    "pink-light": rgba(208, 102, 206, 0.07),
+    "gray": $gray,
+    "yellow": $yellow,
+    "body-light": $body-light,
+);
+
+$theme-colors: map-merge($theme-colors, $custom-colors);
+
+@import '~bootstrap/scss/bootstrap.scss'

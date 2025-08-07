@@ -1,0 +1,42 @@
+[
+    {
+        "label": "Father",
+        "value": "father"
+    },
+    {
+        "label": "Mother",
+        "value": "mother"
+    },
+    {
+        "label": "Brother",
+        "value": "brother"
+    },
+    {
+        "label": "Sister",
+        "value": "sister"
+    },
+    {
+        "label": "Grand Father",
+        "value": "grandFather"
+    },
+    {
+        "label": "Grand Mother",
+        "value": "grandMother"
+    },
+    {
+        "label": "Uncle",
+        "value": "uncle"
+    },
+    {
+        "label": "Aunt",
+        "value": "aunt"
+    },
+    {
+        "label": "Cousin",
+        "value": "cousin"
+    },
+    {
+        "label": "Friend",
+        "value": "friend"
+    }
+]

@@ -1,0 +1,35 @@
+.form-label-colored {
+    .ant-form-item {
+        label {
+            color: $primary;
+            font-weight: 500;
+        }
+    }
+}
+
+.btn-age {
+    padding: 0px 8px !important;
+    cursor: default !important;
+    width: 32px !important;
+}
+
+// Custom scrollbar
+/* width */
+// ::-webkit-scrollbar {
+//     width: 6px;
+// }
+
+// /* Track */
+// ::-webkit-scrollbar-track {
+//     background: #f1f1f1;
+// }
+
+// /* Handle */
+// ::-webkit-scrollbar-thumb {
+//     background: #888;
+// }
+
+// /* Handle on hover */
+// ::-webkit-scrollbar-thumb:hover {
+//     background: #555;
+// }

@@ -1,0 +1,42 @@
+[
+    {
+        "value": "primary",
+        "label": "Primary Education (Grade 1-5)"
+    },
+    {
+        "value": "middle",
+        "label": "Middle Education (Grade 6-8)"
+    },
+    {
+        "value": "secondary",
+        "label": "Secondary Education (Matriculation)"
+    },
+    {
+        "value": "intermediate",
+        "label": "Intermediate (Pre-Engineering, Pre-Medical, etc.)"
+    },
+    {
+        "value": "technicalDiploma",
+        "label": "Technical Diploma"
+    },
+    {
+        "value": "bachelors",
+        "label": "Bachelor's Degree (BA, BS, BSc, etc.)"
+    },
+    {
+        "value": "masters",
+        "label": "Master's Degree (MA, MS, MSc, etc.)"
+    },
+    {
+        "value": "mphil",
+        "label": "MPhil (Master of Philosophy)"
+    },
+    {
+        "value": "phd",
+        "label": "PhD (Doctor of Philosophy)"
+    },
+    {
+        "value": "professionalCertifications",
+        "label": "Professional Certifications (e.g., ACCA, PMP)"
+    }
+]

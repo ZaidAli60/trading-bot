@@ -1,0 +1,12 @@
+main.auth {
+    background: $primary;
+    background: -webkit-linear-gradient(to right, $primary, #6c4f3d);
+    background: linear-gradient(to right, $primary, #6c4f3d);
+
+    .card {
+        width: 100%;
+        max-width: 600px;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+    }
+}

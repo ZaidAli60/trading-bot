@@ -1,0 +1,22 @@
+[
+    {
+        "label": "Owner",
+        "value": "owner"
+    },
+    {
+        "label": "Manager",
+        "value": "manager"
+    },
+    {
+        "label": "Parent",
+        "value": "parent"
+    },
+    {
+        "label": "Student",
+        "value": "student"
+    },
+    {
+        "label": "Teacher",
+        "value": "teacher"
+    }
+]

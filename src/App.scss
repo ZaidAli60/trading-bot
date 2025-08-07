@@ -1,0 +1,39 @@
+@import "./scss/bootstrap";
+@import "./scss/mixins";
+@import "./scss/utilities";
+@import "./scss/global";
+@import "./scss/libraries";
+@import "./scss/screen-loader";
+@import "./scss/auth";
+@import "./scss/dashboard";
+
+#root {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+/* Optional: Give cards a subtle shadow and smooth hover effect */
+.ant-card {
+    transition: all 0.3s ease-in-out;
+}
+
+.ant-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.ant-layout {
+    background-color: #0f172a;
+}
+
+.ant-layout-sider {
+
+    .ant-layout-sider-trigger {
+        background-color: #1F2937;
+    }
+}

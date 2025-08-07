@@ -1,0 +1,18 @@
+[
+    {
+        "label": "Active",
+        "value": "active"
+    },
+    {
+        "label": "Inactive",
+        "value": "inactive"
+    },
+    {
+        "label": "Pending",
+        "value": "pending"
+    },
+    {
+        "label": "Deleted",
+        "value": "deleted"
+    }
+]

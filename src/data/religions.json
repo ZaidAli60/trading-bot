@@ -1,0 +1,50 @@
+[
+    {
+        "value": "islam",
+        "label": "Islam"
+    },
+    {
+        "value": "agnosticism",
+        "label": "Agnosticism"
+    },
+    {
+        "value": "atheism",
+        "label": "Atheism"
+    },
+    {
+        "value": "bahai",
+        "label": "Baha'i"
+    },
+    {
+        "value": "buddhism",
+        "label": "Buddhism"
+    },
+    {
+        "value": "christianity",
+        "label": "Christianity"
+    },
+    {
+        "value": "humanism",
+        "label": "Humanism"
+    },
+    {
+        "value": "hinduism",
+        "label": "Hinduism"
+    },
+    {
+        "value": "jainism",
+        "label": "Jainism"
+    },
+    {
+        "value": "judaism",
+        "label": "Judaism"
+    },
+    {
+        "value": "sikhism",
+        "label": "Sikhism"
+    },
+    {
+        "value": "zoroastrianism",
+        "label": "Zoroastrianism"
+    }
+]

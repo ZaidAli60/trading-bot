@@ -1,0 +1,38 @@
+[
+    {
+        "label": "A+",
+        "value": "a+"
+    },
+    {
+        "label": "A-",
+        "value": "a-"
+    },
+    {
+        "label": "B+",
+        "value": "b+"
+    },
+    {
+        "label": "B-",
+        "value": "b-"
+    },
+    {
+        "label": "O+",
+        "value": "o+"
+    },
+    {
+        "label": "O-",
+        "value": "o-"
+    },
+    {
+        "label": "AB+",
+        "value": "ab+"
+    },
+    {
+        "label": "AB-",
+        "value": "ab-"
+    },
+    {
+        "label": "Don't Know",
+        "value": "dontKnow"
+    }
+]

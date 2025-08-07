@@ -1,0 +1,12 @@
+[
+    {
+        "label": "Onsite (Physical Classes)",
+        "shortLabel": "Onsite",
+        "value": "onsite"
+    },
+    {
+        "label": "Online (Online Classes)",
+        "shortLabel": "Online",
+        "value": "online"
+    }
+]
