@@ -16,6 +16,7 @@ import {
     CartesianGrid,
 } from 'recharts';
 import Chart from './Chart';
+// import TradingViewWidgetWithSignals from './TradingViewChart';
 
 const { Title } = Typography;
 
@@ -114,6 +115,7 @@ const Home = () => {
                 <Row gutter={[]}>
                     <Col span={24}>
                         <h3 className="mb-3">Trading Chart with Signals</h3>
+                        {/* <TradingViewWidgetWithSignals /> */}
                         <Chart />
                     </Col>
                 </Row>
